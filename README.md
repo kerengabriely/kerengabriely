@@ -1,28 +1,22 @@
-## Olá, eu sou a Keren Gabrielly, Desenvolvedora Web FullStack!
-
+### Olá, eu sou a Keren Gabriely, Desenvolvedora Web FullStack!
 
 - 🌱 Aluna da Generation Brasil 
 - 🤔 Qualquer dúvida, pode chamar!
 - 😄 Pronomes: Ela/Dela
 
+<h4 align="center">
 
-##
-<div>
-  <img align="center" height="400px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
-</div>
+  <img height="400px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 
-##
+  <br>
 
-<div align='center'>
+<div align="center">
   <a href="https://github.com/kerengabriely">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kerengabriely&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerengabriely&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kerengabriely&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerengabriely&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
-  
-
-</div>
-  
+##
 
 <div style="display: inline_block"><br>
 
@@ -46,7 +40,6 @@
   <a href = "mailto:kerengabriiely@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/keren-gabriely-b0204a228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- <div>
 
   ![Snake animation](https://github.com/kerengabriely/kerengabriely/blob/output/github-contribution-grid-snake.svg)
  
