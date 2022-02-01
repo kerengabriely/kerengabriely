@@ -3,6 +3,8 @@
 
 - 🌱 Aluna da Generation Brasil 
 - 🤔 Qualquer dúvida, pode chamar!
+- 😄 Pronomes: Ela/Dela
+
 
 ##
 <div>
