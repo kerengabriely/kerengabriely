@@ -4,7 +4,7 @@
 - 🤔 Qualquer dúvida, pode chamar!
 - 😄 Pronomes: Ela/Dela
 
-  -👊🏼Lembre-se: seu foco determina sua realidade!👊🏼
+- ✨Lembre-se: seu foco determina sua realidade!✨
 
 
 <h4 align="center">
