@@ -4,6 +4,9 @@
 - 🤔 Qualquer dúvida, pode chamar!
 - 😄 Pronomes: Ela/Dela
 
+  -👊🏼Lembre-se: seu foco determina sua realidade!👊🏼
+
+
 <h4 align="center">
 
   <img height="400px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
@@ -16,7 +19,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerengabriely&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
-  -👊🏼Lembre-se: seu foco determina sua realidade!👊🏼
 
 
 <div style="display: inline_block"><br>
