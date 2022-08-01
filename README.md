@@ -1,8 +1,7 @@
 ### Olá, eu sou a Keren Gabriely, Desenvolvedora Web FullStack!
 
-- 🌱 Aluna da Generation Brasil 
+- 🌱 Formada pela Generation Brasil 
 - 🤔 Qualquer dúvida, pode chamar!
-- 😄 Pronomes: Ela/Dela
 
 - ✨Lembre-se: seu foco determina sua realidade!✨
 
